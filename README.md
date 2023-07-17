@@ -6,4 +6,4 @@ When we have a **background** service and trigger `onTaskRemoved`, background th
 
 However, when we have a **foreground** service, this is not the case, the background threads have enough time to complete.
 
-<img src="https://ghe.spotify.net/storage/user/9845/files/3fc18712-f8a4-4e9b-bed7-68a7219df795" alt="" height="400" />
+<img src="https://github.com/aaronfodor/graceful-shutdown-issue/assets/37120889/b6060153-dfa6-4b4e-8ea5-109a58ff4514" alt="" height="400" />
